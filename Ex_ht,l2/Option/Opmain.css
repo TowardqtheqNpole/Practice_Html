@@ -61,5 +61,5 @@ body {
 
 .indiv-button:hover,
 .indiv-button:active {
-  background: #dac0fa;
+  background: linear-gradient(to right, #622ca8, #382ca8);
 }
