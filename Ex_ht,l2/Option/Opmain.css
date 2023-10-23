@@ -16,7 +16,7 @@ body {
 .option-indiv {
   display: inline-block;
   margin: 30px 10px;
-  background: linear-gradient(to top, #6a25e1, #351fb1);
+  background: linear-gradient(to right, #382ca8, #622ca8);
   padding: 70px 0;
   width: 350px;
   height: 500px;
@@ -52,7 +52,7 @@ body {
 
 .indiv-button {
   padding: 15px 100px;
-  background: #aa94b3;
+  background: linear-gradient(to right, #382ca8, #622ca8);
   border-radius: 24px;
   cursor: pointer;
   border: none;
