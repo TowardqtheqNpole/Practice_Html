@@ -1,0 +1,65 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  font-family: "Arvo", serif;
+  font-family: "Lexend", sans-serif;
+}
+
+.option-main {
+  margin: 230px 0;
+  text-align: center;
+}
+
+.option-indiv {
+  display: inline-block;
+  margin: 30px 10px;
+  background: linear-gradient(to top, #6a25e1, #351fb1);
+  padding: 70px 0;
+  width: 350px;
+  height: 500px;
+  border-radius: 12px;
+  box-shadow: 2px 6px 6px rgba(0, 0, 0, 0.5);
+}
+
+.high_option {
+  margin: 25px 0;
+}
+
+.indiv {
+  font-size: 44px;
+}
+
+.option-a {
+  font-weight: bold;
+}
+
+.radius-ul {
+  padding: 0 20px;
+}
+
+.option-ul {
+  padding: 0;
+  font-weight: bold;
+  list-style: none;
+}
+
+.option-li {
+  font-size: 16px;
+}
+
+.indiv-button {
+  padding: 15px 100px;
+  background: #aa94b3;
+  border-radius: 24px;
+  cursor: pointer;
+  border: none;
+  box-shadow: 2px 6px 6px rgba(0, 0, 0, 0.5);
+}
+
+.indiv-button:hover,
+.indiv-button:active {
+  background: #dac0fa;
+}
