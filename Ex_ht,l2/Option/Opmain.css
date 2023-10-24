@@ -16,7 +16,7 @@ body {
 .option-indiv {
   display: inline-block;
   margin: 30px 10px;
-  background: linear-gradient(to right, #382ca8, #622ca8);
+  background: linear-gradient(to right, #4850e2, #622ca8);
   padding: 70px 0;
   width: 350px;
   height: 500px;
@@ -61,5 +61,5 @@ body {
 
 .indiv-button:hover,
 .indiv-button:active {
-  background: linear-gradient(to right, #622ca8, #382ca8);
+  background: linear-gradient(to right, #7e59ad, #6a62b3);
 }
