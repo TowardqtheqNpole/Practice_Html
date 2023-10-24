@@ -53,5 +53,5 @@ body {
 
 .download-button:hover,
 .download-button:active {
-  background: linear-gradient(to right, #382ca8, #622ca8);
+  background: linear-gradient(to left, #6d65b9, #622ca8);
 }
